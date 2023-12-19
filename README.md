@@ -1,12 +1,12 @@
 # How-to-increase-or-decrease-width-of-the-column-series
  
-This article explains how to change the width of column series in Blazor chart component.
+This article explains how to change the width of column series in Blazor Chart Component.
 
 **Customizing column width using ColumnWidth and ColumnSpacing property**
 
-[Blazor chart](https://www.syncfusion.com/blazor-components/blazor-charts) provides the support to increase or decrease the width of the column series chart by using [ColumnWidth](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Charts.ChartSeries.html#Syncfusion_Blazor_Charts_ChartSeries_ColumnSpacing) property and the space between the columns can be customized by using [ColumnSpacing](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Charts.ChartSeries.html#Syncfusion_Blazor_Charts_ChartSeries_ColumnSpacing) property in [ChartSeries](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Charts.ChartSeries.html).
+The [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) provides support for increasing or decreasing the width of the column series chart using the [ColumnWidth](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Charts.ChartSeries.html#Syncfusion_Blazor_Charts_ChartSeries_ColumnWidth)  property, and the space between columns can be customized using the [ColumnSpacing](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Charts.ChartSeries.html#Syncfusion_Blazor_Charts_ChartSeries_ColumnSpacing) property in [ChartSeries](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Charts.ChartSeries.html). 
 
-The following code snippet illustrate how to increase or decrease with and spacing of the column series.
+The following code snippet illustrates how to increase or decrease with and spacing of the column series.
 
 **C#**
 
